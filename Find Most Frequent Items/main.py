@@ -1,6 +1,6 @@
 from collections import Counter
 
-text = "The brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox " \
+text = "The brown jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox " \
        "jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy " \
        "dog."
 
